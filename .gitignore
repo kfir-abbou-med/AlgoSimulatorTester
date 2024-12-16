@@ -1,0 +1,13 @@
+
+*.pyc
+.vscode/settings.json
+.vscode/launch.json
+/.directory
+*.iml
+/.idea/
+.hypothesis/
+v2/src/python/.vscode/settings.json
+v2/src/python/.env
+v2/src/python/.idea
+.env
+/algoSimEnv
